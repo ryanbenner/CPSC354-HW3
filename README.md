@@ -1,13 +1,5 @@
 # CPSC354-HW3
 
-
-How has the question been addressed in the past? What are the historical developments?
-Which subfields of PL contributed to investigating the question?
-How did these subfields influence each other?
-Who are the influential researchers who left their mark on the field?
-What are some of the most influential research articles, books, software, etc?
-
-
 In order to gain insight into questions about python's development and implementations, I utilized ChatGPT-4o as the LLM of choice. Provided below are the questions asked to GPT-4o, along with their responses. 
 
 ## Question 1:
@@ -63,6 +55,7 @@ In recent years, particularly in the world of machine learning, there has been a
 
 ### Question:
 
+What are some of the most influential researchers in the development of PyTorch and TensorFlow?
 
 ### Response:
 
@@ -168,11 +161,8 @@ How do the concepts of programming languages, semantics, and parsing tie into th
 
 ## References:
 
-Pytorch - https://github.com/pytorch/pytorch
 
-Paszke, A. et. al, 2024) - PyTorch 2: Faster Machine Learning Through Dynamic Python Bytecode Transformation and Graph Compilation [Conference paper]. 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 2 (ASPLOS '24). https://doi.org/10.1145/3620665.3640366
+[PyTorch 2: Faster Machine Learning Through Dynamic Python Bytecode Transformation and Graph Compilation](https://doi.org/10.1145/3620665.3640366)
 
-TensorFlow - https://github.com/tensorflow/tensorflow
-
-(Dean, J. et. al, 2015) - TensorFlow, Large-scale machine learning on heterogeneous systems [Computer software]. https://doi.org/10.5281/zenodo.4724125
+[TensorFlow, Large-scale machine learning on heterogeneous systems](https://doi.org/10.5281/zenodo.4724125)
 
